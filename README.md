@@ -1,4 +1,3 @@
-```md
 # discord-easy-commands
 
 A simple command handler for Discord.js bots.
