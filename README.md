@@ -1,4 +1,4 @@
-# discord-easy-commands
+# Discord Easy Commands
 
 A simple command handler for Discord.js bots.
 
