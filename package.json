@@ -1,0 +1,17 @@
+{
+    "name": "discord-easy-commands",
+    "version": "1.2.0",
+    "description": "A simple command handler for Discord bots.",
+    "main": "src/index.js",
+    "author": "Luvus",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/luke_22076/discord-easy-commands.git"
+    },
+    "keywords": ["discord", "bot", "commands", "handler"],
+    "publishConfig": {
+      "access": "public"
+    }
+  }
+  
