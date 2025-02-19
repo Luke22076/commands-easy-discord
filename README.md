@@ -1,4 +1,4 @@
-# Discord Easy Commands
+# Commands Easy Discord
 
 A simple command handler for Discord.js bots.
 
@@ -7,7 +7,7 @@ A simple command handler for Discord.js bots.
 To install the package, run the following command in the terminal:
 
 ```sh
-npm install discord-easy-commands
+npm install commands-easy-discord
 ```
 
 ## 🚀 Usage
@@ -43,13 +43,13 @@ In this file, you're defining the `ping` command. When someone types `!ping` in 
 
 ### 3️⃣ **Set up the Bot Code**
 
-Create a `bot.js` file (or name it whatever you like) in your main project folder and import `discord-easy-commands`:
+Create a `bot.js` file (or name it whatever you like) in your main project folder and import `commands-easy-discord`:
 
 #### **`bot.js`**
 
 ```js
 const { Client, GatewayIntentBits } = require('discord.js');
-const { loadCommands } = require('discord-easy-commands');
+const { loadCommands } = require('commands-easy-discord');
 require('dotenv').config();
 
 const client = new Client({
