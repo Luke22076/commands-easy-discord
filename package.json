@@ -1,6 +1,6 @@
 {
   "name": "commands-easy-discord",
-  "version": "1.2.0",
+  "version": "2.3.7",
   "description": "A simple command handler for Discord bots.",
   "main": "src/index.js",
   "author": "Luvus",
