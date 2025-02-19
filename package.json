@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luke_22076/commands-easy-discord.git"
+    "url": "https://github.com/luke22076/commands-easy-discord.git"
   },
   "keywords": ["discord", "bot", "commands", "handler"],
   "dependencies": {
