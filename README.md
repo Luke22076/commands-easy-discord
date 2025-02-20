@@ -112,6 +112,3 @@ Now, your bot will respond to commands like `!ping` and reply with "🏓 Pong!".
 ## 📝 License
 
 This package is licensed under the **MIT License**.
-```
-
----
